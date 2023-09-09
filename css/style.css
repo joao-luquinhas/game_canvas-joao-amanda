@@ -1,0 +1,13 @@
+body{
+    background-image: url('https://e0.pxfuel.com/wallpapers/59/242/desktop-wallpaper-background-space-2d-space.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#canvas{
+    border-bottom: 2px solid rgb(255, 255, 255);
+    border-top: 2px solid rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    margin-top: 265px;
+    
+}
