@@ -2,7 +2,7 @@
 <html lang="pt-br">
 
  <head> 
-        <title>Perca de Tempo!</title>
+        <title>Tempo Perdido...</title>
         <meta charset="utf-8"/>
         <meta name="viewport" content="widht=device-widht, initial-scale=1.0"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -10,8 +10,40 @@
 </head>
 
 <body>
-    <button id="jogar" onclick="jogar()">Jogar</button>
-    <center><canvas id="canvas" width="1100px" height="300px"></canvas></center>
+    <div class="menu">
+        <div class="menu2">
+            <div class="btn_jogar">
+                <button id="jogar" onclick="jogar()">Jogar</button>
+            </div>
+
+            <div class="relogio">
+                <canvas id="relogio" width="100px" height="100px"></canvas>
+                <p id="tempo">00:00</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="menu">
+        <div class="menu2">
+
+            <div>
+                <p id="placar_player">0</p>
+            </div>
+    
+            <div>
+                <p>-</p>
+            </div>
+    
+            <div>
+                <p id="placar_PC">0</p>
+            </div>
+
+        </div>
+    </div>
+    
+    <div>
+        <center><canvas id="campo" width="1100px" height="300px"></canvas></center>
+    </div>
 </body>
 
 <script src="js/form.js"></script>
