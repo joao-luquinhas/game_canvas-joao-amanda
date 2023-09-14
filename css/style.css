@@ -32,8 +32,23 @@ body{
 
 .btn_jogar{
     margin-right: 30px;
-    margin-top: 50px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
 }
+
+#reiniciar{
+    margin-top: 15px;
+    font-size:18px;
+    font-family: Berlin Sans FB;
+    color:#fffefec0;
+    background-color: rgb(0, 0, 0);
+    border-color:#fffefec0;
+    border-radius: 9px;
+    font-weight: bold;
+    padding: 8px;
+}
+
 
 #jogar{
    font-size:18px;
