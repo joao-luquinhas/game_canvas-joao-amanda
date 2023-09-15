@@ -21,11 +21,11 @@ Jogo tem como objetivo representar o clássico jogo de ping-pong, onde o objetiv
 
 <h2>Instruções de Jogo:<h2> 
    <p>
-- [Pressione o botão Jogar na tela para começar o jogo]
-- [Pressione a Tecla W para movimentar a barra para cima]
-- [Pressione a Tecla S para movimentar a barra para baixo]
-- [Tente Rebater a Bola e marcar Pontos]
-- [Ao Terminar o Tempo, Saia ou Clique em Reiniciar para jogar novamente]
+- [Pressione o botão Jogar na tela para começar o jogo]()
+- [Pressione a Tecla W para movimentar a barra para cima]()
+- [Pressione a Tecla S para movimentar a barra para baixo]()
+- [Tente Rebater a Bola e marcar Pontos]()
+- [Ao Terminar o Tempo, Saia ou Clique em Reiniciar para jogar novamente]()
    </p>
 
    <img src="img/foto.png">
