@@ -19,8 +19,11 @@ O jogo retrata esse temas de forma simplificada e tenta fazer o usuário refleti
 Jogo tem como objetivo representar o clássico jogo de ping-pong, onde o objetivo é ter uma pontuação, maior que a de seu adversário antes do tempo acabar, para vencer o jogo, divirta-se!
 </p>
 
+   <img src="img/foto.png">
+
 <h2>Instruções de Jogo:<h2> 
-   <p>
+<p>
+      
 - [Pressione o botão Jogar na tela para começar o jogo]()
       
 - [Pressione a Tecla W para movimentar a barra para cima]()
@@ -30,6 +33,5 @@ Jogo tem como objetivo representar o clássico jogo de ping-pong, onde o objetiv
 - [Tente Rebater a Bola e marcar Pontos]()
   
 - [Ao Terminar o Tempo, Saia ou Clique em Reiniciar para jogar novamente]()
-   </p>
-
-   <img src="img/foto.png">
+  
+</p>
