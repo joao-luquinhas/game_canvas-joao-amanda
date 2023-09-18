@@ -21,7 +21,7 @@ Jogo tem como objetivo representar o clássico jogo de ping-pong, onde o objetiv
 
    <img src="img/foto.png">
    
-   [Clique aqui para ver o vídeo detalhado do jogo](https://youtu.be/mMj8ICaj_qg)
+   [--> Clique aqui para ver o vídeo detalhado do jogo <--](https://youtu.be/mMj8ICaj_qg)
    
 <h2>Instruções de Jogo:<h2> 
 <p>
