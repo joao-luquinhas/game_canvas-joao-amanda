@@ -20,6 +20,7 @@ Jogo tem como objetivo representar o clássico jogo de ping-pong, onde o objetiv
 </p>
 
    <img src="img/foto.png">
+   <video src="video/canvas.mp4">
 
 <h2>Instruções de Jogo:<h2> 
 <p>
