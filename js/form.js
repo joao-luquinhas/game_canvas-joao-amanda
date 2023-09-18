@@ -68,7 +68,7 @@ window.onload = () => {
     const startButton = document.getElementById('jogar');
 
     startButton.addEventListener('click', () => {
-        const duration = 0.2 * 60; // 3 minutos em segundos
+        const duration = 3 * 60; // 3 minutos em segundos
         timer(duration, display);
     });
 };
