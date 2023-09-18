@@ -20,7 +20,7 @@ Jogo tem como objetivo representar o clássico jogo de ping-pong, onde o objetiv
 </p>
 
    <img src="img/foto.png">
-   [![Texto alternativo](canvas.mp4)](canvas.mp4)
+   - [Legião Urbana - Tempo Perdido]("video/canvas.mp4")
 
 <h2>Instruções de Jogo:<h2> 
 <p>
